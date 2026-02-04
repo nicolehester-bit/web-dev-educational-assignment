@@ -116,7 +116,9 @@ p {
   width: 30%;
   background-color: #f9f9f9;
 }
-
+git add .
+git commit -m "Added styles for main page layout and Flexbox"
+git push
 /* =========================
    Additional class selector
    ========================= */
